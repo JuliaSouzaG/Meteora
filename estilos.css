@@ -5,3 +5,21 @@
 .divs-facilidades {
     width: 325px;
 }
+.roxo {
+    background-color: #9353FF;
+    color: white;
+}
+
+.icon-green {
+    color: #DAFF01;
+}
+
+.posicao {
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
